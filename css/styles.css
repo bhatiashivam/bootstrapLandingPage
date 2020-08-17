@@ -1,0 +1,176 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding: 0 0 5rem 0;
+}
+
+.iphone-mockup {
+  /* 60% of parent div */
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2rem;
+}
+
+.nav-item {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 2rem 2rem 0 0;
+}
+
+/* feature */
+#features {
+  padding: 3rem 5rem;
+}
+
+.fa-check-circle,
+.fa-bullseye,
+.fa-heart {
+  margin-bottom: 1.4rem;
+  color: #ff4c68;
+}
+
+.fa-check-circle:hover,
+.fa-bullseye:hover,
+.fa-heart:hover {
+  color: black;
+}
+
+.feature-heading {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-size: 2rem;
+}
+
+.feature-text {
+  color: grey;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 3rem;
+}
+
+/* testimonial section */
+
+#testimonials {
+  text-align: center;
+  background-color: #ff4c68;
+  color: white;
+}
+
+.testimonials-heading {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  width: 20%;
+  margin: 2.5rem;
+}
+
+#press {
+  /* background-color: lightgrey; */
+  text-align: center;
+  padding: 7rem 2rem;
+}
+
+em {
+  display: block;
+  font-size: 1.6rem;
+}
+
+.press-logo {
+  width: 15%;
+  margin: auto 2.5rem;
+}
+
+/* carousel item */
+
+.carousel-item {
+  padding: 3rem 12rem;
+}
+
+/* pricing */
+
+#pricing {
+  text-align: center;
+  padding: 5rem;
+}
+
+.pricing-heading {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+}
+
+.pricing-description {
+  margin-bottom: 3rem;
+}
+
+.pricing-column {
+  padding: 2rem 4rem;
+}
+
+.card {
+  height: 100%;
+}
+
+.card-footer {
+  background: transparent;
+  border-top: 0px;
+}
+
+/* cta and footer*/
+
+#cta {
+  background-color: #ff4c68;
+  padding: 8rem 2rem;
+}
+
+#footer {
+  color: white;
+  background-color: black;
+  padding: 5rem;
+}
+
+#cta,
+#footer {
+  text-align: center;
+}
+
+.footer-text {
+  font-size: 1.2rem;
+}
+
+.cta-heading {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-size: 2.8rem;
+  color: white;
+  padding-bottom: 2rem;
+}
