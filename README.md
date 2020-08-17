@@ -1,2 +1,2 @@
 # bootstrapLandingPage
-Tinddog - Find love for your dogs
+Tindog - Find love for your dogs
